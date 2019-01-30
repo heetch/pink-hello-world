@@ -1,0 +1,5 @@
+{
+  "invoker": "executable",
+  "exec": "hello.sh",
+  "command": ["hello"]
+}
